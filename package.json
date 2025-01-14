@@ -1,8 +1,7 @@
 {
   "name": "tailios-app",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "version": "0.0.0", 
   "packageManager": "yarn@1.22.22",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
